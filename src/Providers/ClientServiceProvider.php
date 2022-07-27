@@ -5,6 +5,7 @@ namespace Spinen\QuickBooks\Providers;
 use Illuminate\Contracts\Foundation\Application;
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 use Spinen\QuickBooks\Client;
+use App\User;
 
 /**
  * Class ClientServiceProvider
